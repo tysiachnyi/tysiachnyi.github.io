@@ -2,6 +2,7 @@ baseURL: "https://tysiachnyi.github.io"
 title: Nik Tysiachnyi
 paginate: 5
 theme: PaperMod
+publishDir: 'docs'
 
 enableRobotsTXT: true
 buildDrafts: false
